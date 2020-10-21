@@ -1,5 +1,26 @@
 
 # Acceso remoto SSH
 # 2 Instalación del servicio SSH en Linux
-#   2.1 Comprobación
-![comprobacion2-1](https://user-images.githubusercontent.com/71705577/96738628-d09f2b80-13b6-11eb-8f6d-c53b7ee23349.PNG)
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U1/Practica2/ssh/imagenes/comprobacion2-1.PNG)
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U1/Practica2/ssh/imagenes/comprobacion2-1-1.PNG)
+Verificamos que el servicios esta funcionando
+
+# 2.2 Primera conexión SSH desde cliente GNU/Linux
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U1/Practica2/ssh/imagenes/comprobacion2-2.PNG)
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U1/Practica2/ssh/imagenes/comprobacion2-2-1.PNG)
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U1/Practica2/ssh/imagenes/comprobacion2-2-2.PNG)
+Hacemos las debidas conexiones por ssh desde los clientes
+# 3. Cambiamos la identidad del servidor
+# 3.2 Comprobamos
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U1/Practica2/ssh/imagenes/comprobacion3-2.PNG)
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U1/Practica2/ssh/imagenes/comprobacion3-2-windows.PNG)
+
+
+
+
+
+
+
+
+
+
