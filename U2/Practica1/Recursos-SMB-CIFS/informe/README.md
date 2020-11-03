@@ -68,5 +68,26 @@ Montamos el recurso barco de forma persistente.
 sudo smbstatus, desde el servidor Samba.
 lsof -i, desde el servidor Samba.
 
+# 3 Cliente GNU/Linux
+## 3.1 Cliente GNU/Linux GUI
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.1-1.PNG)
+
+Probar a crear carpetas/archivos en castillo
+
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.1-2.PNG)
+
+Probar a crear carpetas/archivos en barco
+
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.1-3.PNG)
 
 
+
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.1-4.PNG)
+
+
+
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.1-5.PNG)
+
+
+
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.1-6.PNG)
