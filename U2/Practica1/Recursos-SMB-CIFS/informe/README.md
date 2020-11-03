@@ -34,30 +34,39 @@ testparm, verificar la sintaxis del fichero de configuración.
 ## 2.1 Cliente Windows GUI
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba2.1-1.PNG)
 
-Escribimos \\ip-del-servidor-samba y vemos lo siguiente:
+Escribimos \\192.168.1.31 y vemos lo siguiente:
 
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba2.1-2.PNG)
-
-Acceder al recurso compartido public.
-net use para ver las conexiones abiertas.
-
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba2.1-3.PNG)
 
 Acceder al recurso compartido castillo con el usuario soldado.
 net use para ver las conexiones abiertas.
 net use * /d /y, para borrar todas las conexión SMB/CIFS que se hayan realizado.
 
-![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba2.1-4.PNG)
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba2.1-5.PNG)
 
 Acceder al recurso compartido barco con el usuario pirata.
 Ir al servidor Samba.
 
-![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba2.1-5.PNG)
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba2.1-4.PNG)
 
 smbstatus, desde el servidor Samba.
 lsof -i, desde el servidor Samba.
 
+
 ## 2.2 Cliente Windows comandos
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/enviar2.2-1.PNG)
+
+net view \\192.168.1.31, para ver los recursos del servidor remoto.
+
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/enviar2.2-2.PNG)
+
+Montamos el recurso barco de forma persistente.
+
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/enviar2.2-3.PNG)
+
+sudo smbstatus, desde el servidor Samba.
+lsof -i, desde el servidor Samba.
+
+
+
