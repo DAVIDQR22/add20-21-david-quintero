@@ -70,9 +70,6 @@ lsof -i, desde el servidor Samba.
 
 # 3 Cliente GNU/Linux
 ## 3.1 Cliente GNU/Linux GUI
-![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.1-1.PNG)
-
-Probar a crear carpetas/archivos en castillo
 
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.1-2.PNG)
 
@@ -80,14 +77,28 @@ Probar a crear carpetas/archivos en barco
 
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.1-3.PNG)
 
-
+Probar a crear carpetas/archivos en castillo
 
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.1-4.PNG)
 
-
+Comprobar que el recurso public es de sólo lectura.
 
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.1-5.PNG)
 
-
+sudo smbstatus, desde el servidor Samba.
 
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.1-6.PNG)
+
+sudo lsof -i, desde el servidor Samba.
+
+## 3.2 Cliente GNU/Linux comandos
+
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.2-1.PNG)
+
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.2-2.PNG)
+
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.2-3.PNG)
+
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.2-4.PNG)
+
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba3.2-5.PNG)
