@@ -34,7 +34,7 @@ testparm, verificar la sintaxis del fichero de configuración.
 ## 2.1 Cliente Windows GUI
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba2.1-1.PNG)
 
-Escribimos \\192.168.1.31 y vemos lo siguiente:
+Escribimos \\192.168.1.31 y vemos que conectamos con el servidor.
 
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba2.1-2.PNG)
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba2.1-3.PNG)
