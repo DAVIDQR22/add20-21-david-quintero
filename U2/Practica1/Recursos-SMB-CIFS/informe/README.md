@@ -26,7 +26,7 @@ Ajustes del cortafuegos -> Abrir puertos
 Editando directamente el ficher /etc/samba/smb.conf o 
 Yast -> Samba Server -> Recursos compartidos -> Configurar.
 
-![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba1.5-2.png)
+![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U2/Practica1/Recursos-SMB-CIFS/imagenes/samba1.5-2.PNG)
 
 testparm, verificar la sintaxis del fichero de configuración.
 
