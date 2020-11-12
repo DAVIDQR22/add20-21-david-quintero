@@ -35,6 +35,7 @@ Ahora vamos a usar una impresora de forma local en el servidor de impresión.
 
 Ir al servidor.
 * Habilitamos la impresora como recurso de red compartido.
+
 ![](https://github.com/DAVIDQR22/add20-21-david-quintero/blob/master/U3/Practica1/imagenes/impresion4-1.PNG)
 > Es importante que el cliente tenga una IP definida en la cláusula Allow del servidor.
 Ir a un cliente.
