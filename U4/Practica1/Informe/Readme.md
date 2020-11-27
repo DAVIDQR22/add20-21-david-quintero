@@ -1,9 +1,9 @@
 # Servicio de Directorio con comandos
 
 ## Entrega
-2.4 Comprobar contenido del DS LDAP 
-3.3 Comprobar nuevo usuario
-4.3 Comprobar los usuarios creados
+* 2.4 Comprobar contenido del DS LDAP 
+* 3.3 Comprobar nuevo usuario
+* 4.3 Comprobar los usuarios creados
 # 2. Instalar el Servidor LDAP
 
 ## 2.4 Comprobamos el acceso al contenido del LDAP
